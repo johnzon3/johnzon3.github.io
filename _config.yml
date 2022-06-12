@@ -1,6 +1,6 @@
 # Site Settings
 baseurl: ""
-url : "https://naye0ng.github.io"
+url : "https://johnzon3.github.io"
 
 # Blog Settings
 theme_settings :
@@ -10,21 +10,38 @@ theme_settings :
   # Profile Settings
   profile :
     image : assets/img/smile.png
-    username : Nayeong Kim
-    description : creator of Grape-Theme! Grape-Theme is my first jekyll theme and you can customize this theme easily.
+    username : John Kim
+    description : 재미있게 살고싶은 개발자
     experience :
-      - start : 2017-05-03
-        end : 2018-05-06
-        experience : company name, title
+      - start : 2013-06-15
+        end : 2015-09-01
+        experience : LINE corp, Security Dept, Application Security Team
+      - start : 2015-09-01
+        end : 2021-12-06
+        experience : LINE corp, Data Platform Dept, 
+      - start : 2021-12-06
+        end : Current
+        experience : LINEPLUS corp, Message Data Engineering Center, DP Part
     skills : 
-      - skill : HTML5 & CSS
-        value : 85  # Percent value
+      - skill : Programming languages - Java/Python/Scala
+        value : 70  # Percent value
+      - skill : Hadoop ecosystems - HDFS/YARN/Hive/Presto/Spark/HBase
+        value : 70  # Percent value
+      - skill : Development environments - IntelliJ/Eclipse/Github/Jenkins
+        value : 70  # Percent value
+      - skill : Web Application - Spring Boot/Flask
+        value : 60  # Percent value
+      - skill : Data collection tools - Flink/Fluentd/Filebeat/Logstash/Elasticsearch
+        value : 50  # Percent value
+      - skill : Operating/monitoring tools - Kubernetes/Ansible/Grafana/Prometheus +
+        value : 50  # Percent value
+      
         
   # Icons
   icons :
-    email:  # Full email address, e.g. "sample@google.com"
-    linkedin:  # Full URL 
-    github: naye0ng
+    email: johnzon3@gmail.com
+    linkedin: https://www.linkedin.com/in/johnzone/
+    github: johnzon3
     gitlab: 
     bitbucket: 
     google_plus:
