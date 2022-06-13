@@ -7,6 +7,7 @@
     title : Security Engineer
     summary : 
     description : Penetration Testing, Analyze Abusing Pattern
+
 - project :
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : False # If 'True' is selected, modal can open in 'portfolio.html'. 
@@ -16,6 +17,7 @@
     title : History inquiry using Hbase
     summary : 
     description : Responsible for the maintenance of the spring project that inputs data through Hbase bulkloading and retrieves the input data.
+
 - project :
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : False # If 'True' is selected, modal can open in 'portfolio.html'. 
@@ -25,6 +27,7 @@
     title : ETL job with Azkaban and Airflow
     summary : 
     description : Configure multiple ETL batch jobs(SQL, distcp, pipeline, etc) through Azkaban
+
 - project :
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : False # If 'True' is selected, modal can open in 'portfolio.html'. 
@@ -34,6 +37,7 @@
     title : Monitoring with prometheus and grafana
     summary : 
     description : Collect data using node_exporter in prometheus and create monitoring page in grafana
+
 - project :
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : False # If 'True' is selected, modal can open in 'portfolio.html'. 
@@ -43,6 +47,7 @@
     title : Deploying Services Using Kubernetes
     summary : 
     description : Flink, Airflow, Kafka MirrorMaker, 
+
 - project :
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : False # If 'True' is selected, modal can open in 'portfolio.html'. 
@@ -52,6 +57,7 @@
     title : mapreduce using HFile without Hmaster
     summary : 
     description : In general, hbase mapreduce uses hbase resources, but mapreduce is made using only hfile without hbase cluster.
+
 - project :
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal : False # If 'True' is selected, modal can open in 'portfolio.html'. 
